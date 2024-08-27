@@ -40,6 +40,23 @@ Se han creado los siguientes procedimientos almacenados para gestionar las opera
 WHERE estado = @estado
     END
   ```
+## Instalación y Configuración
 
+1. **Instalación de Paquetes:**
+   - Utiliza NuGet Package Manager para instalar los siguientes paquetes:
+     - `Microsoft.EntityFrameworkCore` (versión 8.0.8)
+     - `Microsoft.EntityFrameworkCore.SqlServer` (versión 8.0.8)
+     - `Pomelo.EntityFrameworkCore.MySql` (versión 8.0.2)
+
+2. **Configuración de la Cadena de Conexión:**
+   - Abre el archivo `appsettings.json` y agrega tu cadena de conexión a la base de datos SQL Server:
+
+     ```json
+     {
+       "ConnectionStrings": {
+         "ConexionSQL": "Data Source=(local)\\SQLEXPRESS;Initial Catalog=DBTodo;Trusted_Connection=True;TrustServerCertificate=True;"
+       }
+     }
+     ```
 
 
