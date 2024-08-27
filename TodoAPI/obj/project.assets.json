@@ -4606,11 +4606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZHARICK\\Desktop\\PRUEBATODO\\TodoAPI\\TodoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaToList\\TodoAPI\\TodoAPI.csproj",
       "projectName": "TodoAPI",
-      "projectPath": "C:\\Users\\ZHARICK\\Desktop\\PRUEBATODO\\TodoAPI\\TodoAPI.csproj",
+      "projectPath": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaToList\\TodoAPI\\TodoAPI.csproj",
       "packagesPath": "C:\\Users\\ZHARICK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZHARICK\\Desktop\\PRUEBATODO\\TodoAPI\\obj\\",
+      "outputPath": "C:\\Users\\ZHARICK\\Documents\\GitHub\\PruebaToList\\TodoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZHARICK\\AppData\\Roaming\\NuGet\\NuGet.Config",
