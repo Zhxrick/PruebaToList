@@ -9,7 +9,7 @@
 
 ### 1. Base de Datos en SQL Server
 
-Para esta API, la base de datos fue creada en SQL Server y consta de una tabla principal llamada `Employees` con los siguientes campos:
+Para esta API, la base de datos fue creada en SQL Server y consta de una tabla principal llamada `tareas` con los siguientes campos:
 
 - `Idtarea` (Primary Key, int, Identity)
 - `titulo` (nvarchar(255))
